@@ -1,3 +1,6 @@
+'''
+  adapted from Mike Kim's solution on kaggle otto competition
+'''
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
